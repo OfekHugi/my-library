@@ -58,7 +58,7 @@ public class Utils {
 
     private void initData() {
         ArrayList<Book> books = new ArrayList<>();
-        books.add(new Book(1, "1Q84", "Haruki Murakami", 1350, "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/613dAp7dyRL._AC_UF1000,1000_QL80_.jpg",
+        books.add(new Book(1, "1Q84", "Haruki Murakami", 1350, "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/1Q84_%28United_States_edition%29.jpg/250px-1Q84_%28United_States_edition%29.jpg",
                 "A work of maddening brillience", "Long Description"));
         books.add(new Book(2, "The Myth of Sisyphus", "Albert Camus", 250, "https://m.media-amazon.com/images/I/51SM+Bv+WeL.jpg",
                 "One of the most influential works of this century, this is a crucial exposition of existentialist thought.",
